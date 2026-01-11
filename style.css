@@ -39,7 +39,7 @@ body {
     height: 90vh;
     /* This creates a 70% dark transparency over your image */
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                url('https://i.postimg.cc/LsbgRXmg/icoloring-i41n.png'); 
+                url('https://i.postimg.cc/dDPPMgHs/icoloring_i41n.png'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* This makes the image stay still while you scroll */
@@ -534,4 +534,5 @@ html {
 
 .profile-pic:hover {
     transform: scale(1.05); /* Subtle zoom when clients hover over you */
+
 }
